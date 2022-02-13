@@ -1,0 +1,15 @@
+D:\Challenge of OZ\C#\bin\Debug\net6.0\C#.exe
+D:\Challenge of OZ\C#\bin\Debug\net6.0\C#.deps.json
+D:\Challenge of OZ\C#\bin\Debug\net6.0\C#.runtimeconfig.json
+D:\Challenge of OZ\C#\bin\Debug\net6.0\C#.dll
+D:\Challenge of OZ\C#\bin\Debug\net6.0\ref\C#.dll
+D:\Challenge of OZ\C#\bin\Debug\net6.0\C#.pdb
+D:\Challenge of OZ\C#\obj\Debug\net6.0\C#.csproj.AssemblyReference.cache
+D:\Challenge of OZ\C#\obj\Debug\net6.0\C#.GeneratedMSBuildEditorConfig.editorconfig
+D:\Challenge of OZ\C#\obj\Debug\net6.0\C#.AssemblyInfoInputs.cache
+D:\Challenge of OZ\C#\obj\Debug\net6.0\C#.AssemblyInfo.cs
+D:\Challenge of OZ\C#\obj\Debug\net6.0\C#.csproj.CoreCompileInputs.cache
+D:\Challenge of OZ\C#\obj\Debug\net6.0\C#.dll
+D:\Challenge of OZ\C#\obj\Debug\net6.0\ref\C#.dll
+D:\Challenge of OZ\C#\obj\Debug\net6.0\C#.pdb
+D:\Challenge of OZ\C#\obj\Debug\net6.0\C#.genruntimeconfig.cache
