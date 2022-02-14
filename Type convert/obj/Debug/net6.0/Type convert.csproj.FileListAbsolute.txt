@@ -1,0 +1,15 @@
+D:\Challenge of OZ\C#\Type convert\bin\Debug\net6.0\Type convert.exe
+D:\Challenge of OZ\C#\Type convert\bin\Debug\net6.0\Type convert.deps.json
+D:\Challenge of OZ\C#\Type convert\bin\Debug\net6.0\Type convert.runtimeconfig.json
+D:\Challenge of OZ\C#\Type convert\bin\Debug\net6.0\Type convert.dll
+D:\Challenge of OZ\C#\Type convert\bin\Debug\net6.0\ref\Type convert.dll
+D:\Challenge of OZ\C#\Type convert\bin\Debug\net6.0\Type convert.pdb
+D:\Challenge of OZ\C#\Type convert\obj\Debug\net6.0\Type convert.csproj.AssemblyReference.cache
+D:\Challenge of OZ\C#\Type convert\obj\Debug\net6.0\Type convert.GeneratedMSBuildEditorConfig.editorconfig
+D:\Challenge of OZ\C#\Type convert\obj\Debug\net6.0\Type convert.AssemblyInfoInputs.cache
+D:\Challenge of OZ\C#\Type convert\obj\Debug\net6.0\Type convert.AssemblyInfo.cs
+D:\Challenge of OZ\C#\Type convert\obj\Debug\net6.0\Type convert.csproj.CoreCompileInputs.cache
+D:\Challenge of OZ\C#\Type convert\obj\Debug\net6.0\Type convert.dll
+D:\Challenge of OZ\C#\Type convert\obj\Debug\net6.0\ref\Type convert.dll
+D:\Challenge of OZ\C#\Type convert\obj\Debug\net6.0\Type convert.pdb
+D:\Challenge of OZ\C#\Type convert\obj\Debug\net6.0\Type convert.genruntimeconfig.cache
