@@ -1,0 +1,15 @@
+D:\Challenge of OZ\C#\Swich-case\bin\Debug\net6.0\Swich-case.exe
+D:\Challenge of OZ\C#\Swich-case\bin\Debug\net6.0\Swich-case.deps.json
+D:\Challenge of OZ\C#\Swich-case\bin\Debug\net6.0\Swich-case.runtimeconfig.json
+D:\Challenge of OZ\C#\Swich-case\bin\Debug\net6.0\Swich-case.dll
+D:\Challenge of OZ\C#\Swich-case\bin\Debug\net6.0\ref\Swich-case.dll
+D:\Challenge of OZ\C#\Swich-case\bin\Debug\net6.0\Swich-case.pdb
+D:\Challenge of OZ\C#\Swich-case\obj\Debug\net6.0\Swich-case.csproj.AssemblyReference.cache
+D:\Challenge of OZ\C#\Swich-case\obj\Debug\net6.0\Swich-case.GeneratedMSBuildEditorConfig.editorconfig
+D:\Challenge of OZ\C#\Swich-case\obj\Debug\net6.0\Swich-case.AssemblyInfoInputs.cache
+D:\Challenge of OZ\C#\Swich-case\obj\Debug\net6.0\Swich-case.AssemblyInfo.cs
+D:\Challenge of OZ\C#\Swich-case\obj\Debug\net6.0\Swich-case.csproj.CoreCompileInputs.cache
+D:\Challenge of OZ\C#\Swich-case\obj\Debug\net6.0\Swich-case.dll
+D:\Challenge of OZ\C#\Swich-case\obj\Debug\net6.0\ref\Swich-case.dll
+D:\Challenge of OZ\C#\Swich-case\obj\Debug\net6.0\Swich-case.pdb
+D:\Challenge of OZ\C#\Swich-case\obj\Debug\net6.0\Swich-case.genruntimeconfig.cache
