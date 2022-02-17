@@ -1,0 +1,15 @@
+D:\Challenge of OZ\C#\Hackerrank while\bin\Debug\net6.0\Hackerrank while.exe
+D:\Challenge of OZ\C#\Hackerrank while\bin\Debug\net6.0\Hackerrank while.deps.json
+D:\Challenge of OZ\C#\Hackerrank while\bin\Debug\net6.0\Hackerrank while.runtimeconfig.json
+D:\Challenge of OZ\C#\Hackerrank while\bin\Debug\net6.0\Hackerrank while.dll
+D:\Challenge of OZ\C#\Hackerrank while\bin\Debug\net6.0\ref\Hackerrank while.dll
+D:\Challenge of OZ\C#\Hackerrank while\bin\Debug\net6.0\Hackerrank while.pdb
+D:\Challenge of OZ\C#\Hackerrank while\obj\Debug\net6.0\Hackerrank while.csproj.AssemblyReference.cache
+D:\Challenge of OZ\C#\Hackerrank while\obj\Debug\net6.0\Hackerrank while.GeneratedMSBuildEditorConfig.editorconfig
+D:\Challenge of OZ\C#\Hackerrank while\obj\Debug\net6.0\Hackerrank while.AssemblyInfoInputs.cache
+D:\Challenge of OZ\C#\Hackerrank while\obj\Debug\net6.0\Hackerrank while.AssemblyInfo.cs
+D:\Challenge of OZ\C#\Hackerrank while\obj\Debug\net6.0\Hackerrank while.csproj.CoreCompileInputs.cache
+D:\Challenge of OZ\C#\Hackerrank while\obj\Debug\net6.0\Hackerrank while.dll
+D:\Challenge of OZ\C#\Hackerrank while\obj\Debug\net6.0\ref\Hackerrank while.dll
+D:\Challenge of OZ\C#\Hackerrank while\obj\Debug\net6.0\Hackerrank while.pdb
+D:\Challenge of OZ\C#\Hackerrank while\obj\Debug\net6.0\Hackerrank while.genruntimeconfig.cache
