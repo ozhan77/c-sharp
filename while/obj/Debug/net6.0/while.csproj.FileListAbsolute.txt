@@ -1,0 +1,15 @@
+D:\Challenge of OZ\C#\while\obj\Debug\net6.0\while.csproj.AssemblyReference.cache
+D:\Challenge of OZ\C#\while\obj\Debug\net6.0\while.GeneratedMSBuildEditorConfig.editorconfig
+D:\Challenge of OZ\C#\while\obj\Debug\net6.0\while.AssemblyInfoInputs.cache
+D:\Challenge of OZ\C#\while\obj\Debug\net6.0\while.AssemblyInfo.cs
+D:\Challenge of OZ\C#\while\obj\Debug\net6.0\while.csproj.CoreCompileInputs.cache
+D:\Challenge of OZ\C#\while\bin\Debug\net6.0\while.exe
+D:\Challenge of OZ\C#\while\bin\Debug\net6.0\while.deps.json
+D:\Challenge of OZ\C#\while\bin\Debug\net6.0\while.runtimeconfig.json
+D:\Challenge of OZ\C#\while\bin\Debug\net6.0\while.dll
+D:\Challenge of OZ\C#\while\bin\Debug\net6.0\ref\while.dll
+D:\Challenge of OZ\C#\while\bin\Debug\net6.0\while.pdb
+D:\Challenge of OZ\C#\while\obj\Debug\net6.0\while.dll
+D:\Challenge of OZ\C#\while\obj\Debug\net6.0\ref\while.dll
+D:\Challenge of OZ\C#\while\obj\Debug\net6.0\while.pdb
+D:\Challenge of OZ\C#\while\obj\Debug\net6.0\while.genruntimeconfig.cache
