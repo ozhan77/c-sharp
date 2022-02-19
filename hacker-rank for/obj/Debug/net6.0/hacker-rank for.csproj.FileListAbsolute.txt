@@ -1,0 +1,15 @@
+D:\Challenge of OZ\C#\hacker-rank for\bin\Debug\net6.0\hacker-rank for.exe
+D:\Challenge of OZ\C#\hacker-rank for\bin\Debug\net6.0\hacker-rank for.deps.json
+D:\Challenge of OZ\C#\hacker-rank for\bin\Debug\net6.0\hacker-rank for.runtimeconfig.json
+D:\Challenge of OZ\C#\hacker-rank for\bin\Debug\net6.0\hacker-rank for.dll
+D:\Challenge of OZ\C#\hacker-rank for\bin\Debug\net6.0\ref\hacker-rank for.dll
+D:\Challenge of OZ\C#\hacker-rank for\bin\Debug\net6.0\hacker-rank for.pdb
+D:\Challenge of OZ\C#\hacker-rank for\obj\Debug\net6.0\hacker-rank for.csproj.AssemblyReference.cache
+D:\Challenge of OZ\C#\hacker-rank for\obj\Debug\net6.0\hacker-rank for.GeneratedMSBuildEditorConfig.editorconfig
+D:\Challenge of OZ\C#\hacker-rank for\obj\Debug\net6.0\hacker-rank for.AssemblyInfoInputs.cache
+D:\Challenge of OZ\C#\hacker-rank for\obj\Debug\net6.0\hacker-rank for.AssemblyInfo.cs
+D:\Challenge of OZ\C#\hacker-rank for\obj\Debug\net6.0\hacker-rank for.csproj.CoreCompileInputs.cache
+D:\Challenge of OZ\C#\hacker-rank for\obj\Debug\net6.0\hacker-rank for.dll
+D:\Challenge of OZ\C#\hacker-rank for\obj\Debug\net6.0\ref\hacker-rank for.dll
+D:\Challenge of OZ\C#\hacker-rank for\obj\Debug\net6.0\hacker-rank for.pdb
+D:\Challenge of OZ\C#\hacker-rank for\obj\Debug\net6.0\hacker-rank for.genruntimeconfig.cache
