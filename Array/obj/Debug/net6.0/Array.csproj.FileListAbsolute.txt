@@ -1,0 +1,15 @@
+D:\Challenge of OZ\C#\Array\bin\Debug\net6.0\Array.exe
+D:\Challenge of OZ\C#\Array\bin\Debug\net6.0\Array.deps.json
+D:\Challenge of OZ\C#\Array\bin\Debug\net6.0\Array.runtimeconfig.json
+D:\Challenge of OZ\C#\Array\bin\Debug\net6.0\Array.dll
+D:\Challenge of OZ\C#\Array\bin\Debug\net6.0\ref\Array.dll
+D:\Challenge of OZ\C#\Array\bin\Debug\net6.0\Array.pdb
+D:\Challenge of OZ\C#\Array\obj\Debug\net6.0\Array.csproj.AssemblyReference.cache
+D:\Challenge of OZ\C#\Array\obj\Debug\net6.0\Array.GeneratedMSBuildEditorConfig.editorconfig
+D:\Challenge of OZ\C#\Array\obj\Debug\net6.0\Array.AssemblyInfoInputs.cache
+D:\Challenge of OZ\C#\Array\obj\Debug\net6.0\Array.AssemblyInfo.cs
+D:\Challenge of OZ\C#\Array\obj\Debug\net6.0\Array.csproj.CoreCompileInputs.cache
+D:\Challenge of OZ\C#\Array\obj\Debug\net6.0\Array.dll
+D:\Challenge of OZ\C#\Array\obj\Debug\net6.0\ref\Array.dll
+D:\Challenge of OZ\C#\Array\obj\Debug\net6.0\Array.pdb
+D:\Challenge of OZ\C#\Array\obj\Debug\net6.0\Array.genruntimeconfig.cache
