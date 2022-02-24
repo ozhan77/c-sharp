@@ -1,0 +1,15 @@
+D:\Challenge of OZ\C#\Homework1.3\obj\Debug\net6.0\Homework1.3.csproj.AssemblyReference.cache
+D:\Challenge of OZ\C#\Homework1.3\obj\Debug\net6.0\Homework1.3.GeneratedMSBuildEditorConfig.editorconfig
+D:\Challenge of OZ\C#\Homework1.3\obj\Debug\net6.0\Homework1.3.AssemblyInfoInputs.cache
+D:\Challenge of OZ\C#\Homework1.3\obj\Debug\net6.0\Homework1.3.AssemblyInfo.cs
+D:\Challenge of OZ\C#\Homework1.3\obj\Debug\net6.0\Homework1.3.csproj.CoreCompileInputs.cache
+D:\Challenge of OZ\C#\Homework1.3\bin\Debug\net6.0\Homework1.3.exe
+D:\Challenge of OZ\C#\Homework1.3\bin\Debug\net6.0\Homework1.3.deps.json
+D:\Challenge of OZ\C#\Homework1.3\bin\Debug\net6.0\Homework1.3.runtimeconfig.json
+D:\Challenge of OZ\C#\Homework1.3\bin\Debug\net6.0\Homework1.3.dll
+D:\Challenge of OZ\C#\Homework1.3\bin\Debug\net6.0\ref\Homework1.3.dll
+D:\Challenge of OZ\C#\Homework1.3\bin\Debug\net6.0\Homework1.3.pdb
+D:\Challenge of OZ\C#\Homework1.3\obj\Debug\net6.0\Homework1.3.dll
+D:\Challenge of OZ\C#\Homework1.3\obj\Debug\net6.0\ref\Homework1.3.dll
+D:\Challenge of OZ\C#\Homework1.3\obj\Debug\net6.0\Homework1.3.pdb
+D:\Challenge of OZ\C#\Homework1.3\obj\Debug\net6.0\Homework1.3.genruntimeconfig.cache
