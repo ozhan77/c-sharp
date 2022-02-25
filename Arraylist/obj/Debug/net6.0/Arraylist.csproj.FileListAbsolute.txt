@@ -1,0 +1,15 @@
+D:\Challenge of OZ\C#\Arraylist\bin\Debug\net6.0\Arraylist.exe
+D:\Challenge of OZ\C#\Arraylist\bin\Debug\net6.0\Arraylist.deps.json
+D:\Challenge of OZ\C#\Arraylist\bin\Debug\net6.0\Arraylist.runtimeconfig.json
+D:\Challenge of OZ\C#\Arraylist\bin\Debug\net6.0\Arraylist.dll
+D:\Challenge of OZ\C#\Arraylist\bin\Debug\net6.0\ref\Arraylist.dll
+D:\Challenge of OZ\C#\Arraylist\bin\Debug\net6.0\Arraylist.pdb
+D:\Challenge of OZ\C#\Arraylist\obj\Debug\net6.0\Arraylist.csproj.AssemblyReference.cache
+D:\Challenge of OZ\C#\Arraylist\obj\Debug\net6.0\Arraylist.GeneratedMSBuildEditorConfig.editorconfig
+D:\Challenge of OZ\C#\Arraylist\obj\Debug\net6.0\Arraylist.AssemblyInfoInputs.cache
+D:\Challenge of OZ\C#\Arraylist\obj\Debug\net6.0\Arraylist.AssemblyInfo.cs
+D:\Challenge of OZ\C#\Arraylist\obj\Debug\net6.0\Arraylist.csproj.CoreCompileInputs.cache
+D:\Challenge of OZ\C#\Arraylist\obj\Debug\net6.0\Arraylist.dll
+D:\Challenge of OZ\C#\Arraylist\obj\Debug\net6.0\ref\Arraylist.dll
+D:\Challenge of OZ\C#\Arraylist\obj\Debug\net6.0\Arraylist.pdb
+D:\Challenge of OZ\C#\Arraylist\obj\Debug\net6.0\Arraylist.genruntimeconfig.cache
