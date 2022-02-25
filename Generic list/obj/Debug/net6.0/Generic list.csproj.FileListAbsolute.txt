@@ -1,0 +1,15 @@
+D:\Challenge of OZ\C#\Generic list\bin\Debug\net6.0\Generic list.exe
+D:\Challenge of OZ\C#\Generic list\bin\Debug\net6.0\Generic list.deps.json
+D:\Challenge of OZ\C#\Generic list\bin\Debug\net6.0\Generic list.runtimeconfig.json
+D:\Challenge of OZ\C#\Generic list\bin\Debug\net6.0\Generic list.dll
+D:\Challenge of OZ\C#\Generic list\bin\Debug\net6.0\ref\Generic list.dll
+D:\Challenge of OZ\C#\Generic list\bin\Debug\net6.0\Generic list.pdb
+D:\Challenge of OZ\C#\Generic list\obj\Debug\net6.0\Generic list.csproj.AssemblyReference.cache
+D:\Challenge of OZ\C#\Generic list\obj\Debug\net6.0\Generic list.GeneratedMSBuildEditorConfig.editorconfig
+D:\Challenge of OZ\C#\Generic list\obj\Debug\net6.0\Generic list.AssemblyInfoInputs.cache
+D:\Challenge of OZ\C#\Generic list\obj\Debug\net6.0\Generic list.AssemblyInfo.cs
+D:\Challenge of OZ\C#\Generic list\obj\Debug\net6.0\Generic list.csproj.CoreCompileInputs.cache
+D:\Challenge of OZ\C#\Generic list\obj\Debug\net6.0\Generic list.dll
+D:\Challenge of OZ\C#\Generic list\obj\Debug\net6.0\ref\Generic list.dll
+D:\Challenge of OZ\C#\Generic list\obj\Debug\net6.0\Generic list.pdb
+D:\Challenge of OZ\C#\Generic list\obj\Debug\net6.0\Generic list.genruntimeconfig.cache
