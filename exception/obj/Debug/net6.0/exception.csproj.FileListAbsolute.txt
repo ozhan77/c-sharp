@@ -1,0 +1,15 @@
+D:\Challenge of OZ\C#\exception\bin\Debug\net6.0\exception.exe
+D:\Challenge of OZ\C#\exception\bin\Debug\net6.0\exception.deps.json
+D:\Challenge of OZ\C#\exception\bin\Debug\net6.0\exception.runtimeconfig.json
+D:\Challenge of OZ\C#\exception\bin\Debug\net6.0\exception.dll
+D:\Challenge of OZ\C#\exception\bin\Debug\net6.0\ref\exception.dll
+D:\Challenge of OZ\C#\exception\bin\Debug\net6.0\exception.pdb
+D:\Challenge of OZ\C#\exception\obj\Debug\net6.0\exception.csproj.AssemblyReference.cache
+D:\Challenge of OZ\C#\exception\obj\Debug\net6.0\exception.GeneratedMSBuildEditorConfig.editorconfig
+D:\Challenge of OZ\C#\exception\obj\Debug\net6.0\exception.AssemblyInfoInputs.cache
+D:\Challenge of OZ\C#\exception\obj\Debug\net6.0\exception.AssemblyInfo.cs
+D:\Challenge of OZ\C#\exception\obj\Debug\net6.0\exception.csproj.CoreCompileInputs.cache
+D:\Challenge of OZ\C#\exception\obj\Debug\net6.0\exception.dll
+D:\Challenge of OZ\C#\exception\obj\Debug\net6.0\ref\exception.dll
+D:\Challenge of OZ\C#\exception\obj\Debug\net6.0\exception.pdb
+D:\Challenge of OZ\C#\exception\obj\Debug\net6.0\exception.genruntimeconfig.cache
