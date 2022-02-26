@@ -1,0 +1,15 @@
+D:\Challenge of OZ\C#\Datetime\bin\Debug\net6.0\Datetime.exe
+D:\Challenge of OZ\C#\Datetime\bin\Debug\net6.0\Datetime.deps.json
+D:\Challenge of OZ\C#\Datetime\bin\Debug\net6.0\Datetime.runtimeconfig.json
+D:\Challenge of OZ\C#\Datetime\bin\Debug\net6.0\Datetime.dll
+D:\Challenge of OZ\C#\Datetime\bin\Debug\net6.0\ref\Datetime.dll
+D:\Challenge of OZ\C#\Datetime\bin\Debug\net6.0\Datetime.pdb
+D:\Challenge of OZ\C#\Datetime\obj\Debug\net6.0\Datetime.csproj.AssemblyReference.cache
+D:\Challenge of OZ\C#\Datetime\obj\Debug\net6.0\Datetime.GeneratedMSBuildEditorConfig.editorconfig
+D:\Challenge of OZ\C#\Datetime\obj\Debug\net6.0\Datetime.AssemblyInfoInputs.cache
+D:\Challenge of OZ\C#\Datetime\obj\Debug\net6.0\Datetime.AssemblyInfo.cs
+D:\Challenge of OZ\C#\Datetime\obj\Debug\net6.0\Datetime.csproj.CoreCompileInputs.cache
+D:\Challenge of OZ\C#\Datetime\obj\Debug\net6.0\Datetime.dll
+D:\Challenge of OZ\C#\Datetime\obj\Debug\net6.0\ref\Datetime.dll
+D:\Challenge of OZ\C#\Datetime\obj\Debug\net6.0\Datetime.pdb
+D:\Challenge of OZ\C#\Datetime\obj\Debug\net6.0\Datetime.genruntimeconfig.cache
