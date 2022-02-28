@@ -1,0 +1,15 @@
+D:\Challenge of OZ\C#\Static class\bin\Debug\net6.0\Static class.exe
+D:\Challenge of OZ\C#\Static class\bin\Debug\net6.0\Static class.deps.json
+D:\Challenge of OZ\C#\Static class\bin\Debug\net6.0\Static class.runtimeconfig.json
+D:\Challenge of OZ\C#\Static class\bin\Debug\net6.0\Static class.dll
+D:\Challenge of OZ\C#\Static class\bin\Debug\net6.0\ref\Static class.dll
+D:\Challenge of OZ\C#\Static class\bin\Debug\net6.0\Static class.pdb
+D:\Challenge of OZ\C#\Static class\obj\Debug\net6.0\Static class.csproj.AssemblyReference.cache
+D:\Challenge of OZ\C#\Static class\obj\Debug\net6.0\Static class.GeneratedMSBuildEditorConfig.editorconfig
+D:\Challenge of OZ\C#\Static class\obj\Debug\net6.0\Static class.AssemblyInfoInputs.cache
+D:\Challenge of OZ\C#\Static class\obj\Debug\net6.0\Static class.AssemblyInfo.cs
+D:\Challenge of OZ\C#\Static class\obj\Debug\net6.0\Static class.csproj.CoreCompileInputs.cache
+D:\Challenge of OZ\C#\Static class\obj\Debug\net6.0\Static class.dll
+D:\Challenge of OZ\C#\Static class\obj\Debug\net6.0\ref\Static class.dll
+D:\Challenge of OZ\C#\Static class\obj\Debug\net6.0\Static class.pdb
+D:\Challenge of OZ\C#\Static class\obj\Debug\net6.0\Static class.genruntimeconfig.cache
