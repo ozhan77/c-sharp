@@ -1,0 +1,15 @@
+D:\Challenge of OZ\C#\Encapsulation & Property\bin\Debug\net6.0\Encapsulation & Property.exe
+D:\Challenge of OZ\C#\Encapsulation & Property\bin\Debug\net6.0\Encapsulation & Property.deps.json
+D:\Challenge of OZ\C#\Encapsulation & Property\bin\Debug\net6.0\Encapsulation & Property.runtimeconfig.json
+D:\Challenge of OZ\C#\Encapsulation & Property\bin\Debug\net6.0\Encapsulation & Property.dll
+D:\Challenge of OZ\C#\Encapsulation & Property\bin\Debug\net6.0\ref\Encapsulation & Property.dll
+D:\Challenge of OZ\C#\Encapsulation & Property\bin\Debug\net6.0\Encapsulation & Property.pdb
+D:\Challenge of OZ\C#\Encapsulation & Property\obj\Debug\net6.0\Encapsulation & Property.csproj.AssemblyReference.cache
+D:\Challenge of OZ\C#\Encapsulation & Property\obj\Debug\net6.0\Encapsulation & Property.GeneratedMSBuildEditorConfig.editorconfig
+D:\Challenge of OZ\C#\Encapsulation & Property\obj\Debug\net6.0\Encapsulation & Property.AssemblyInfoInputs.cache
+D:\Challenge of OZ\C#\Encapsulation & Property\obj\Debug\net6.0\Encapsulation & Property.AssemblyInfo.cs
+D:\Challenge of OZ\C#\Encapsulation & Property\obj\Debug\net6.0\Encapsulation & Property.csproj.CoreCompileInputs.cache
+D:\Challenge of OZ\C#\Encapsulation & Property\obj\Debug\net6.0\Encapsulation & Property.dll
+D:\Challenge of OZ\C#\Encapsulation & Property\obj\Debug\net6.0\ref\Encapsulation & Property.dll
+D:\Challenge of OZ\C#\Encapsulation & Property\obj\Debug\net6.0\Encapsulation & Property.pdb
+D:\Challenge of OZ\C#\Encapsulation & Property\obj\Debug\net6.0\Encapsulation & Property.genruntimeconfig.cache
