@@ -1,0 +1,1 @@
+﻿Console.WriteLine("{0:F1}", 3.0);
