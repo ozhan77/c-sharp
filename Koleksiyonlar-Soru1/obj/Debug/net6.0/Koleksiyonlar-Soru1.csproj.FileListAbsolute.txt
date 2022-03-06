@@ -1,0 +1,15 @@
+D:\Challenge of OZ\C#\Koleksiyonlar-Soru1\bin\Debug\net6.0\Koleksiyonlar-Soru1.exe
+D:\Challenge of OZ\C#\Koleksiyonlar-Soru1\bin\Debug\net6.0\Koleksiyonlar-Soru1.deps.json
+D:\Challenge of OZ\C#\Koleksiyonlar-Soru1\bin\Debug\net6.0\Koleksiyonlar-Soru1.runtimeconfig.json
+D:\Challenge of OZ\C#\Koleksiyonlar-Soru1\bin\Debug\net6.0\Koleksiyonlar-Soru1.dll
+D:\Challenge of OZ\C#\Koleksiyonlar-Soru1\bin\Debug\net6.0\ref\Koleksiyonlar-Soru1.dll
+D:\Challenge of OZ\C#\Koleksiyonlar-Soru1\bin\Debug\net6.0\Koleksiyonlar-Soru1.pdb
+D:\Challenge of OZ\C#\Koleksiyonlar-Soru1\obj\Debug\net6.0\Koleksiyonlar-Soru1.csproj.AssemblyReference.cache
+D:\Challenge of OZ\C#\Koleksiyonlar-Soru1\obj\Debug\net6.0\Koleksiyonlar-Soru1.GeneratedMSBuildEditorConfig.editorconfig
+D:\Challenge of OZ\C#\Koleksiyonlar-Soru1\obj\Debug\net6.0\Koleksiyonlar-Soru1.AssemblyInfoInputs.cache
+D:\Challenge of OZ\C#\Koleksiyonlar-Soru1\obj\Debug\net6.0\Koleksiyonlar-Soru1.AssemblyInfo.cs
+D:\Challenge of OZ\C#\Koleksiyonlar-Soru1\obj\Debug\net6.0\Koleksiyonlar-Soru1.csproj.CoreCompileInputs.cache
+D:\Challenge of OZ\C#\Koleksiyonlar-Soru1\obj\Debug\net6.0\Koleksiyonlar-Soru1.dll
+D:\Challenge of OZ\C#\Koleksiyonlar-Soru1\obj\Debug\net6.0\ref\Koleksiyonlar-Soru1.dll
+D:\Challenge of OZ\C#\Koleksiyonlar-Soru1\obj\Debug\net6.0\Koleksiyonlar-Soru1.pdb
+D:\Challenge of OZ\C#\Koleksiyonlar-Soru1\obj\Debug\net6.0\Koleksiyonlar-Soru1.genruntimeconfig.cache
