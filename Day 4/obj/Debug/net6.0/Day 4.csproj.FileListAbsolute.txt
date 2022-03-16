@@ -1,0 +1,15 @@
+D:\Challenge of OZ\C#\Day 4\bin\Debug\net6.0\Day 4.exe
+D:\Challenge of OZ\C#\Day 4\bin\Debug\net6.0\Day 4.deps.json
+D:\Challenge of OZ\C#\Day 4\bin\Debug\net6.0\Day 4.runtimeconfig.json
+D:\Challenge of OZ\C#\Day 4\bin\Debug\net6.0\Day 4.dll
+D:\Challenge of OZ\C#\Day 4\bin\Debug\net6.0\ref\Day 4.dll
+D:\Challenge of OZ\C#\Day 4\bin\Debug\net6.0\Day 4.pdb
+D:\Challenge of OZ\C#\Day 4\obj\Debug\net6.0\Day 4.csproj.AssemblyReference.cache
+D:\Challenge of OZ\C#\Day 4\obj\Debug\net6.0\Day 4.GeneratedMSBuildEditorConfig.editorconfig
+D:\Challenge of OZ\C#\Day 4\obj\Debug\net6.0\Day 4.AssemblyInfoInputs.cache
+D:\Challenge of OZ\C#\Day 4\obj\Debug\net6.0\Day 4.AssemblyInfo.cs
+D:\Challenge of OZ\C#\Day 4\obj\Debug\net6.0\Day 4.csproj.CoreCompileInputs.cache
+D:\Challenge of OZ\C#\Day 4\obj\Debug\net6.0\Day 4.dll
+D:\Challenge of OZ\C#\Day 4\obj\Debug\net6.0\ref\Day 4.dll
+D:\Challenge of OZ\C#\Day 4\obj\Debug\net6.0\Day 4.pdb
+D:\Challenge of OZ\C#\Day 4\obj\Debug\net6.0\Day 4.genruntimeconfig.cache
