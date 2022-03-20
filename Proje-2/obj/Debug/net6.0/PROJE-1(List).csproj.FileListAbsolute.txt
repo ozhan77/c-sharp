@@ -1,0 +1,15 @@
+D:\Challenge of OZ\C#\Proje-2\bin\Debug\net6.0\PROJE-1(List).exe
+D:\Challenge of OZ\C#\Proje-2\bin\Debug\net6.0\PROJE-1(List).deps.json
+D:\Challenge of OZ\C#\Proje-2\bin\Debug\net6.0\PROJE-1(List).runtimeconfig.json
+D:\Challenge of OZ\C#\Proje-2\bin\Debug\net6.0\PROJE-1(List).dll
+D:\Challenge of OZ\C#\Proje-2\bin\Debug\net6.0\ref\PROJE-1(List).dll
+D:\Challenge of OZ\C#\Proje-2\bin\Debug\net6.0\PROJE-1(List).pdb
+D:\Challenge of OZ\C#\Proje-2\obj\Debug\net6.0\PROJE-1(List).csproj.AssemblyReference.cache
+D:\Challenge of OZ\C#\Proje-2\obj\Debug\net6.0\PROJE-1(List).GeneratedMSBuildEditorConfig.editorconfig
+D:\Challenge of OZ\C#\Proje-2\obj\Debug\net6.0\PROJE-1(List).AssemblyInfoInputs.cache
+D:\Challenge of OZ\C#\Proje-2\obj\Debug\net6.0\PROJE-1(List).AssemblyInfo.cs
+D:\Challenge of OZ\C#\Proje-2\obj\Debug\net6.0\PROJE-1(List).csproj.CoreCompileInputs.cache
+D:\Challenge of OZ\C#\Proje-2\obj\Debug\net6.0\PROJE-1(List).dll
+D:\Challenge of OZ\C#\Proje-2\obj\Debug\net6.0\ref\PROJE-1(List).dll
+D:\Challenge of OZ\C#\Proje-2\obj\Debug\net6.0\PROJE-1(List).pdb
+D:\Challenge of OZ\C#\Proje-2\obj\Debug\net6.0\PROJE-1(List).genruntimeconfig.cache
